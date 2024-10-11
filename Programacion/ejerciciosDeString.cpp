@@ -4,7 +4,7 @@
 #include <algorithm> 
 #include <sstream> 
  
-using namespace std; 
+using namespace std;  
  
 int main() 
 { 
